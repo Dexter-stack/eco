@@ -1,0 +1,95 @@
+.uo{
+	padding:20px 20px 20px 0px;
+	margin-top: 30px;
+	background-color: navy;
+	list-style-type: none;
+	overflow: hidden;
+	max-width: 100%;
+	box-sizing: border-box;
+
+}
+
+
+#lis  {
+    display: inline-block;
+
+    
+
+}
+ a {
+ text-decoration: none;	
+ text-align: center;
+ color: white;
+  padding:30px;
+
+ 
+}
+a:hover{
+	background-color: black;
+}
+.firstH{
+	font-family: cursive;
+	text-transform: uppercase;
+	text-shadow: 5px 3px 4px tomato;
+	color: navy;
+	text-align: center;
+	max-width: 100%;
+	
+}
+.div1{
+	display:inline-block; 
+	background-color:grey;
+	background-size:100%;
+	margin-top: 0px;
+    padding-left:20px;
+    padding-right:20px;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius:15px;
+   
+    box-sizing: border-box;
+    color: white;
+
+    
+
+}
+
+.img1{
+	width:15%;
+	border: 1px solid grey;
+	border-radius: 50%;
+	 float: left;
+}
+
+.divone{
+ 
+ display:block;
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+
+.ul2{
+	max-width: 100%;
+	padding: 10px;
+	margin: 0% 0% 0% 10%;
+	list-style-type: none;
+	background-color: violet;
+	display: inline-block;
+	
+
+}
+.lis2{
+	display: inline-block;
+	padding: 20px;
+	background-color: navy;
+	color: white;
+	letter-spacing: 2px; 
+}
+body{
+	background-image: url("portfo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
